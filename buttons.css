@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    
+  
+}
+
+
+
+i{
+    color: white;
+    padding: 10px 10px;
+    height: 60px;
+    width: 60px;
+  
+}
+
+
+.social-icons ul{
+    position: absolute;
+    top: 25%;
+    left: 29%;
+}
+
+i.fa-facebook:hover{
+    color: blue;
+    transition: 1s;
+    
+}
+
+i.fa-instagram:hover{
+    color: #8a3ab9;
+    transition: 1s;
+    
+}
+
+i.fa-twitter:hover{
+    color: #1DA1F2;
+    transition: 1s;
+   
+}
+
+i.fa-linkedin:hover{
+    color: #0077b5;
+    transition: 1s;
+   
+}
+
+i.fa-reddit:hover{
+    color: #ff4500;
+    transition: 1s;
+    
+}
+
+i.fa-youtube:hover{
+    color: #FF0000;
+    transition: 1s;
+    
+}
+
+
+
